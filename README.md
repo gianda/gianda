@@ -1,13 +1,15 @@
-<div id="header" width="100">
-  <img src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="100"/>
+<div id="header" align="center"">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
 </div>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! </h1>
 
 <p>This is my personal Github page! </br> I am <b>Gianluca</b>, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"/> <b>Varese, Italy</b>. </br> I am currently working at <b><a href="https://athics.eu/">Athics</a></b> contributing to backend and infrastructure for building web applications.</p>
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/marinogianluca/"/>
-  <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="https://github.com/gianda"/>
+  
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinogianluca/)
+  [![Linkedin](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gianda)
+  
 </div>
 
 ---
@@ -35,27 +37,24 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-### Other Things I code with
+### Other Things I code with:
 <div>
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
-  
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img alt="Traefik" src="https://img.shields.io/badge/-Traefik-%2300ADD8?style=for-the-badge" />
-  
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 </div>
 
 ---
 
-### About me
+### Hobbies:
 
-- 👋 Hi, I’m @gianda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- :mountain_biking_man: Mountain Biking
+- :snowboarder: Snowboarding
+- :hiking_boot: Hiking
+- :man_technologist: Technology
+                                                                                                                           
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gianda&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
