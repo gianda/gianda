@@ -53,7 +53,10 @@
 - :mountain_biking_man: Mountain Biking
 - :snowboarder: Snowboarding
 - :hiking_boot: Hiking
+- :guide_dog: Training my Labrador Lela :paw_prints:                                                                                                      
 - :man_technologist: Technology
+- :printer: 3D Printing and design things with [![Fusion360](https://img.shields.io/badge/-Fusion360-orange?logo=autodesk&logoColor=white&style=flat)]()
+
                                                                                                                            
 ---
 
