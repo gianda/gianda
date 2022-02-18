@@ -4,7 +4,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! </h1>
 
-<p>This is my personal Github page! </br> I am <b>Gianluca</b>, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"/> <b>Varese, Italy</b>. </br> I am currently working at <b><a href="https://athics.eu/">Athics</a></b> contributing to backend and infrastructure for building web applications.</p>
+<p>This is my personal Github page! </br> I am <b>Gianluca</b>, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"/> <b>Varese, Italy</b>. </br> I am currently working at <b><a href="https://athics.eu/">Athics</a></b> contributing to backend and cloud infrastructure for building web applications.</p>
 <div id="badges">
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinogianluca/)
@@ -39,11 +39,11 @@
 
 ### Other Things I code with:
 <div>
-  <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img alt="Traefik" src="https://img.shields.io/badge/-Traefik-%2300ADD8?style=for-the-badge" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-%237B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="Traefik Proxy" src="https://img.shields.io/badge/-Traefik Proxy-%2300ADD8?style=for-the-badge" />  
 </div>
 
 ---
