@@ -4,7 +4,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Ciao! </h1>
 
-<p>This is my personal Github page! </br> I am <b>Gianluca</b>, Backend Developer from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"/> <b>Varese, Italy</b>. </br> I am currently working at <b><a href="https://athics.eu/">Athics</a></b> contributing to backend and cloud infrastructure for building web applications.</p>
+<p>This is my personal Github page! </br> I am <b>Gianluca</b>, Backend Developer and DevOps Specialist from <img src="https://cdn-icons-png.flaticon.com/512/323/323325.png" width="15"/> <b>Varese, Italy</b>. </br>
 <div id="badges">
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marinogianluca/)
